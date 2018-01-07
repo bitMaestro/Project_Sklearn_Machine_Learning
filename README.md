@@ -1,6 +1,7 @@
 
 ### Udacity Machine Learning with SKlearn Final Project
 
+One of our final projects at Udacity was to dive into the world of machine learning with Scikit-learn (sklearn). Sklearn is a machine learning library in the Python Programing Language that features various classification, regression and clustering algorithms. What made it stand out was the speed at which machine learning generated an analysis. Our objective was to train a supervised classification algorithm that had a precision and recall score equal or greater than 0.30. For an algorithm I chose the Gradient Boosting Classifier and it was well worth the extra effort. I learned to manage outliers with the help of Pandas and select features with SelectKBest feature extraction. Splitting the data allowed me to understand the importance of having a training set, a testing set, and validation set. It was incredible learning experience.
 
 #### Project Overview
 
