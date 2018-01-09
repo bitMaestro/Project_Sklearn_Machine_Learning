@@ -1,7 +1,6 @@
 
 ### Udacity Machine Learning with SKlearn Final Project
 
-#### Introduction
 Completed my dive into the wonderful world of machine learning with Scikit-learn (sklearn). Scikit is a machine learning library in the Python Programing Language that features various classification, regression and clustering algorithms. What made it stand out was the speed at which machine learning generated an analysis. Our objective was to train a supervised classification algorithm that had precision and recall scores equal or greater than 0.30. For an algorithm, I chose the Gradient Boosting Classifier, and it was well worth the extra effort. I manage outliers and NaN values with Pandas. I selected features with SelectKBest feature extraction. I then split the data between a training set, a testing set, and validation set. To keep my fits and bits together, I wrapped the classifier into a Pipeline and used cross-validated to test my algorithm. It was an excellent experience, and I've caught the bug for machine learning.
 
 #### Project Overview
